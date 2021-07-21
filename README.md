@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JakeLSaunders94
 - 👀 I’m primarily interested in backend software development with Python.
-- 🌱 I’m currently learning singe page applications with React.
+- 🌱 I’m currently learning single page applications with React.
 - 📫 How to reach me jakelsaunders94@gmail.com
 
 <!---
